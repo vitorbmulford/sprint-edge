@@ -28,5 +28,5 @@ O display LCD mostra a velocidade atual e a marcha selecionada. Um "emojí" de b
 O código para o sistema foi desenvolvido em C++ e pode ser carregado no microcontrolador Arduino.
 
 ### Links
-- [Simulação TinkerCad](#)
+- [Simulação TinkerCad](https://www.tinkercad.com/things/f3WpwgPvv1D-sprint-1/editel)
 - [Vídeo Explicativo no YouTube](#)

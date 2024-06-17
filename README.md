@@ -33,4 +33,4 @@ O código para o sistema foi desenvolvido em C++ e pode ser carregado no microco
 
 ### Links
 - [Simulação TinkerCad](https://www.tinkercad.com/things/f3WpwgPvv1D-sprint-1/editel)
-- [Vídeo Explicativo no YouTube](#)
+- [Vídeo Explicativo no YouTube](https://www.youtube.com/watch?v=TCBvI_vM-OY)

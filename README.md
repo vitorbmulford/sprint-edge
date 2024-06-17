@@ -8,6 +8,9 @@
 ## Descrição do Projeto
 Este projeto tem como objetivo criar um sistema de controle para um carro de Fórmula E, com foco na gamificação e na visibilidade da competição. Utilizando um display LCD e botões de controle, o sistema permite ao usuário visualizar e ajustar a velocidade e a marcha do carro, além de fornecer informações adicionais, como o nível de bateria.
 
+## Imagem do Projeto 
+![Uploading image.png…]()
+
 ## Componentes Utilizados
 - Arduino (ou qualquer microcontrolador compatível)
 - Display LCD 16x2

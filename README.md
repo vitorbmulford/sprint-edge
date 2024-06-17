@@ -6,6 +6,7 @@ Lorenzo Mangini (RM: 554901)
 
 Descrição
 Este projeto tem como objetivo criar um sistema de controle para um carro de Fórmula E, com foco na gamificação e na visibilidade da competição. Utilizando um display LCD e botões de controle, o sistema permite ao usuário visualizar e ajustar a velocidade e a marcha do carro, além de fornecer informações adicionais, como o nível de bateria.
+![image](https://github.com/vitorbmulford/sprint-edge/assets/142764430/2039e309-483d-4b53-b847-e9b320a238a2)
 
 Componentes Utilizados
 Arduino (ou qualquer microcontrolador compatível)

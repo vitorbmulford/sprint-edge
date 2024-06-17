@@ -9,7 +9,8 @@
 Este projeto tem como objetivo criar um sistema de controle para um carro de Fórmula E, com foco na gamificação e na visibilidade da competição. Utilizando um display LCD e botões de controle, o sistema permite ao usuário visualizar e ajustar a velocidade e a marcha do carro, além de fornecer informações adicionais, como o nível de bateria.
 
 ## Imagem do Projeto 
-![Uploading image.png…]()
+![image](https://github.com/vitorbmulford/sprint-edge/assets/142764430/b89a1e3d-0069-46f0-86f1-e93b67adbb67)
+
 
 ## Componentes Utilizados
 - Arduino (ou qualquer microcontrolador compatível)
